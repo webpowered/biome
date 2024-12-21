@@ -1,12 +1,12 @@
 {
-  "description": "Configuration for Biome used in WebPowered projects",
-  "name": "@webpowered/biome",
-  "peerDependencies": {
-    "@biomejs/biome": "latest"
-  },
-  "publishConfig": {
-    "access": "public"
-  },
-  "type": "module",
-  "version": "0.0.0"
+	"description": "Configuration for Biome used in WebPowered projects",
+	"name": "@webpowered/biome",
+	"peerDependencies": {
+		"@biomejs/biome": "latest"
+	},
+	"publishConfig": {
+		"access": "public"
+	},
+	"type": "module",
+	"version": "0.0.0"
 }
