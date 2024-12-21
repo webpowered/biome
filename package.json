@@ -12,9 +12,11 @@
 	"files": [
 		"biome.json",
 		"bun.lockb",
+		"LICENSE.md",
 		"README.md"
 	],
 	"homepage": "https://github.com/webpowered/biome",
+	"license": "MIT",
 	"name": "@webpowered/biome",
 	"publishConfig": {
 		"access": "public"
