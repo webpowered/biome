@@ -2,15 +2,20 @@
 	"bugs": {
 		"url": "https://github.com/webpowered/biome/issues"
 	},
+	"devDependencies": {
+		"@biomejs/biome": "latest"
+	},
 	"description": "Configuration for Biome used in WebPowered projects",
 	"exports": {
 		".": "./biome.json"
 	},
+	"files": [
+		"biome.json",
+		"bun.lockb",
+		"README.md"
+	],
 	"homepage": "https://github.com/webpowered/biome",
 	"name": "@webpowered/biome",
-	"peerDependencies": {
-		"@biomejs/biome": "latest"
-	},
 	"publishConfig": {
 		"access": "public"
 	},
