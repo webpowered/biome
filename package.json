@@ -1,14 +1,22 @@
 {
+	"bugs": {
+		"url": "https://github.com/webpowered/biome/issues"
+	},
 	"description": "Configuration for Biome used in WebPowered projects",
 	"exports": {
 		".": "./biome.json"
 	},
+	"homepage": "https://github.com/webpowered/biome",
 	"name": "@webpowered/biome",
 	"peerDependencies": {
 		"@biomejs/biome": "latest"
 	},
 	"publishConfig": {
 		"access": "public"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/webpowered/biome.git"
 	},
 	"type": "module",
 	"version": "0.0.0"
