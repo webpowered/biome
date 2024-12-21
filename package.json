@@ -1,5 +1,8 @@
 {
 	"description": "Configuration for Biome used in WebPowered projects",
+	"exports": {
+		".": "./biome.json"
+	},
 	"name": "@webpowered/biome",
 	"peerDependencies": {
 		"@biomejs/biome": "latest"
